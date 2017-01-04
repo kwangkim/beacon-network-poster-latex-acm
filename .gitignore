@@ -178,3 +178,9 @@ TSWLatexianTemp*
 
 # KBibTeX
 *~[0-9]*
+
+# build scripts
+*.sh
+
+# unneeded files
+beamercolorthemeC*.sty
